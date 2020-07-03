@@ -1,7 +1,7 @@
 # Reinforcement-Learning-Book
 [Book Course] :- Andrea Lonza - Reinforcement Learning Algorithms with Python_ Learn, understand, and develop smart algorithms for addressing AI challenges-Packt Publishing (2019)
 
-<img src="https://www.packtpub.com/media/logo/stores/1/logo.png" width="170" height="75">
+<img src="https://github.com/prakHr/Reinforcement-Learning-Book/blob/master/packt-logo.png" width="170" height="75">
 
 Reinforcement Learning (RL) is a popular and promising branch of AI that involves making smarter models and agents that can automatically determine ideal behavior based on changing requirements. This book will help you master RL algorithms and understand their implementation as you build self-learning agents.
 
@@ -9,7 +9,7 @@ Starting with an introduction to the tools, libraries, and setup needed to work 
 
 By the end of the book, you'll have worked with key RL algorithms to overcome challenges in real-world applications, and be part of the RL research community.
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781789131116-original.jpeg" width="240" height="240">
+<img src="https://github.com/prakHr/Reinforcement-Learning-Book/blob/master/book-RL.jpeg" width="240" height="240">
 
 ## Table of contents
 * [Summary](#summary)
